@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "D:\\Software\\Anaconda3\\envs\\linear_regression_env\\python.exe",
+    "python.unitTest.pyTestArgs": [
+        "Python"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}

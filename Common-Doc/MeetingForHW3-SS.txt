@@ -1,0 +1,19 @@
+成员:范玉华 赵江宁 候岳泽 徐家骏
+F:Okay,这次我们就一起来讨论一下这次要完成的任务吧
+F:我们这次有两个任务:一个是画context diagram,另一个是完成
+problems+opportunities+objectives+constraints_matrix
+F:关于context diagram你们有哪些想法?
+Z:我觉得这个context diagram主要是要我们画出系统外部的一些entities,也就是说我们
+不需要去关心内部的问题,而是要考虑和外部的交互
+H:那这样的话也就是说我们要去关注entities
+Z:对,首先确定好entities
+X:另外还有input和output
+F:Context diagram核心就是这些了
+......(讨论了一些entities和输入输出的问题,不赘述了)
+Z:讨论完这个接下来就讨论problems+opportunities+objectives+constraints_matrix
+X:我们来一个个的说明它们的目的,然后就很好去完成了
+F:对,首先是problems or opportunities,这个主要是要说我们系统可能碰到的一些问题和机遇
+Z:cause and effects就是指这些问题和机遇产生的原因还有可能会带给我们的一些影响
+H:objectives就是指发现的问题之后我们系统想要改进并且假设我们有足够的资源的话需要提出哪一些新的目标
+X:system constraint很明显就是说在实施的时候会有哪一些障碍会妨碍我们计划的实施
+......(接下来就表格开始填空,不细谈了)
